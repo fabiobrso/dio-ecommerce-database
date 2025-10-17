@@ -68,4 +68,5 @@ Diagrama exportado do MySQL Workbench mostrando as relações entre as entidades
 ## 📝 Autor
 
 Desenvolvido por **Fábio Barros de Oliveira** para o desafio DIO.
+📅 Outubro / 2025
 
