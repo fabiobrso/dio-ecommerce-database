@@ -26,13 +26,13 @@ O banco de dados `ecommerce` é composto pelas seguintes entidades principais:
 ## 🧠 Conceitos SQL Praticados
 
 - Criação de banco e tabelas (`CREATE DATABASE`, `CREATE TABLE`)
-- Chaves primárias e estrangeiras (`PRIMARY KEY`, `FOREIGN KEY`)
-- Inserção e manipulação de dados (`INSERT INTO`)
-- Filtros (`WHERE`)
-- Ordenação (`ORDER BY`)
-- Agrupamentos e filtros de grupo (`GROUP BY`, `HAVING`)
-- Junções (`JOIN`)
-- Atributos derivados (expressões no `SELECT)`
+- Modelagem relacional com chaves primárias, estrangeiras e tabelas associativas (`PRIMARY KEY`, `FOREIGN KEY`).
+- Criação de tabelas com constraints e tipos adequados.
+- Inserção e Manipulação de dados (`INSERT`, `UPDATE`, `DELETE` e `SELECT`).
+- Consultas com filtros `WHERE`, junções `JOIN` e ordenações `ORDER BY`.
+- Funções e expressões para atributos derivados e cálculos `SUM` e `COUNT`.
+- Agrupamentos com `GROUP BY` e `HAVING`.
+- Controle de integridade referencial e uso de `ENUM` para domínios fixos.
 
 ---
 
