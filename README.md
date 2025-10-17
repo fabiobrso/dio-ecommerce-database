@@ -53,7 +53,7 @@ Diagrama exportado do MySQL Workbench mostrando as relações entre as entidades
 │  
 ├── docs/  
 │   ├── diagrama-eer.png           *--> Imagem do diagrama*  
-│   └── modelo-eer-ecommerce.mwb   *--> Arquivo MySQL WorkBench*  
+│   └── projeto-eer-ecommerce.mwb   *--> Arquivo MySQL WorkBench*  
 │  
 └── README.md
 
