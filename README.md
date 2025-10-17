@@ -52,16 +52,8 @@ Diagrama exportado do MySQL Workbench mostrando as relações entre as entidades
 │   └── sample_queries.sql         *--> Consultas de prática (SELECT, WHERE, JOIN etc.)*  
 │  
 ├── docs/  
-│   ├── diagrama-eer.png           *--> Exportar o diagrama do MySQL Workbench*  
-│   └── explicacao-modelo.md       *--> Breve descrição das entidades e relacionamentos*  
-│  
-├── imgs/   
-│   ├── 1. Seleção simples com SELECT.png  
-│   ├── 2. Filtros com WHERE.png  
-│   ├── 3. Expressões derivadas.png  
-│   ├── 4. Ordenação.png  
-│   ├── 5. Agrupamento com HAVING.png  
-│   └── 6. Junção entre tabelas  
+│   ├── diagrama-eer.png           *--> Imagem do diagrama*  
+│   └── modelo-eer-ecommerce.mwb   *--> Arquivo MySQL WorkBench*  
 │  
 └── README.md
 
