@@ -52,7 +52,7 @@ Diagrama exportado do MySQL Workbench mostrando as relações entre as entidades
 │   └── sample_queries.sql         *--> Consultas de prática (SELECT, WHERE, JOIN etc.)*  
 │  
 ├── docs/  
-│   ├── diagrama-eer.png           *--> Imagem do diagrama*  
+│   ├── diagrama-eer-ecommerce.png  *--> Imagem do diagrama*  
 │   └── projeto-eer-ecommerce.mwb   *--> Arquivo MySQL WorkBench*  
 │  
 └── README.md
