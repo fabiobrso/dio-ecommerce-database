@@ -1,4 +1,4 @@
-# Banco de Dados E-commerce (MySQL)
+# Banco de Dados - E-commerce
 
 Projeto completo de modelagem e implementação de um **banco de dados relacional para um sistema de e-commerce**, desenvolvido no **MySQL Workbench**.  
 
